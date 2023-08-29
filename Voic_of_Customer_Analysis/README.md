@@ -1,4 +1,4 @@
-Tis is topic modeling on a dataset of sunscreen product reviews using Latent Dirichlet Allocation (LDA) and visualizing the results using `pyLDAvis`. Here's a an explanation of each part of code:
+This is topic modeling on a dataset of sunscreen product reviews using Latent Dirichlet Allocation (LDA) and visualizing the results using `pyLDAvis`. Here's a an explanation of each part of code:
 
 1. **Importing Libraries:**
    - You start by importing the necessary libraries, including `pandas`, `pythainlp`, `gensim`, and `pyLDAvis`. These libraries are used for data manipulation, text preprocessing, topic modeling, and visualization.
