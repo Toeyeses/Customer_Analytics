@@ -1,3 +1,8 @@
+[Uploading Sunscreen_review.csv…]()
+
+![topic modeling visualize](https://github.com/Toeyeses/Customer_Analytics/assets/128026055/56cb775c-3f9b-4300-b13c-19eb4fb17f3b)
+
+
 This is topic modeling on a dataset of sunscreen product reviews using Latent Dirichlet Allocation (LDA) and visualizing the results using `pyLDAvis`. Here's a an explanation of each part of code:
 
 1. **Importing Libraries:**
@@ -29,3 +34,4 @@ This is topic modeling on a dataset of sunscreen product reviews using Latent Di
    - Finally, you call `pyLDAvis.gensim.prepare` again to visualize the topics. This will display an interactive visualization that allows you to explore the topics, their keywords, and how they relate to each other.
 
 In summary, this code reads sunscreen product reviews, preprocesses the text data, applies LDA topic modeling to discover topics, and visualizes the topics using `pyLDAvis`. It's a comprehensive analysis pipeline for understanding the main themes and topics within the reviews.
+![topic modeling visualize](https://github.com/Toeyeses/Customer_Analytics/assets/128026055/8795b10f-ef7d-47e2-9d8b-b4cf14fd76b5)
