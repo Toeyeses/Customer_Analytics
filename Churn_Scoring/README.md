@@ -1,4 +1,4 @@
-Create churn prediction model to predict Customertraveler.csv that whic customer going to churn
+**Create churn prediction model to predict Customertraveler.csv that whic customer going to churn**
 
 According to "Basic_Churn_Prediction.inpy" this file is an  example of data analysis and machine learning applied to a dataset called "Customertravel.csv." And here's a summary and explanation of the code in notebook:
 
