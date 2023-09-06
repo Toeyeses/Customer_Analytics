@@ -8,11 +8,23 @@ This repository contains a project aimed at maximizing revenue for a supermarket
 
 To improve customer retention, we first segmented the existing customer base using RFM (Recency, Frequency, Monetary) variables. The segmentation resulted in three distinct customer groups:
 
+![image](https://github.com/Toeyeses/Customer_Analytics/assets/128026055/c3500315-85b6-460b-8d87-a5f10a0304c9)
+
+
 1. **Nearly Churn** - This group consists of customers who show signs of potential churn. To re-engage them, we have implemented a strategy to offer discounts for their next purchase. The aim is to incentivize these customers to continue shopping with us.
+
+![image](https://github.com/Toeyeses/Customer_Analytics/assets/128026055/bc937836-9e4a-4652-8b38-720d9c53f661)
+
 
 2. **Hi-So Spending** - The high-spending customers are essential for our revenue. To show appreciation and encourage them to continue their spending, we offer special discounts with priority periods. This approach reinforces their loyalty.
 
+![image](https://github.com/Toeyeses/Customer_Analytics/assets/128026055/19b08bfe-e2b4-4b75-a022-8cb3f49fd1c2)
+
+
 3. **Small Pocket** - Customers in this group may not spend as much. To maximize revenue from this segment, we've implemented an up-selling strategy. We recommend product bundling with promotional offers, enticing them to make larger purchases.
+
+![image](https://github.com/Toeyeses/Customer_Analytics/assets/128026055/704ea39c-7cff-4309-855e-85b0ae3974b5)
+
 
 ### Implementation
 
