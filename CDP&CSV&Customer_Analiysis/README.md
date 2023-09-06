@@ -4,6 +4,9 @@ This repository contains a project aimed at maximizing revenue for a supermarket
 
 ## Customer Retention Strategy
 
+![image](https://github.com/Toeyeses/Customer_Analytics/assets/128026055/6593d23c-2b97-4d10-9e27-2faa8f31cab9)
+
+
 ### Customer Segmentation
 
 To improve customer retention, we first segmented the existing customer base using RFM (Recency, Frequency, Monetary) variables. The segmentation resulted in three distinct customer groups:
@@ -34,9 +37,15 @@ To improve customer retention, we first segmented the existing customer base usi
 
 - To target the **Small Pocket** group, our system provides product bundling recommendations with promotional offers. We display these recommendations prominently during their shopping experience to encourage additional purchases.
 
+![image](https://github.com/Toeyeses/Customer_Analytics/assets/128026055/778ec2f9-f855-4c25-876d-5dfaf93c9dec)
+
+
 ## Customer Acquisition Strategy
 
 In addition to retaining existing customers, we are actively targeting new customers to boost revenue further.
+
+![image](https://github.com/Toeyeses/Customer_Analytics/assets/128026055/c2fa4fd2-7210-4781-8203-fa4aaaf891a0)
+
 
 ### New Customer Targeting
 
