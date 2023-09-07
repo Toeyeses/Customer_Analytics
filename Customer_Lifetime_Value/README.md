@@ -6,7 +6,8 @@ This repository presents a Customer Lifetime Value (CLV) analysis for Dusit Inte
 
 ## Current Loyalty Program
 
-![Current Loyalty Program](/images/current_loyalty_program.png)
+![image](https://github.com/Toeyeses/MADT8101_Customer_Analytics/assets/128026055/92993028-52df-4750-b3c7-4c915c302b80)
+
 
 ### Pain Points
 
@@ -29,15 +30,20 @@ This enhanced scoring system allows for a more comprehensive assessment of custo
 
 ## New Scorecard Metrics and Hotel Tiers
 
-![New Scorecard Metrics](/images/new_scorecard_metrics.png)
+![image](https://github.com/Toeyeses/MADT8101_Customer_Analytics/assets/128026055/fbe26b5e-8d68-4f46-96be-5d8f19c294fd)
+
 
 ### Hotel Tiers
 
 Hotel tiers are now determined based on the star rating of each hotel. This ensures that loyal customers receive appropriate recognition and rewards at each level of the program.
 
+![image](https://github.com/Toeyeses/MADT8101_Customer_Analytics/assets/128026055/6c6eecca-2abe-4a40-99e6-75b5458ff563)
+
+
 ## Example Customer Profile Score
 
-![Example Customer Profile Score](/images/example_customer_profile.png)
+![image](https://github.com/Toeyeses/MADT8101_Customer_Analytics/assets/128026055/126fd6f4-b783-40b0-90a4-88561af59fff)
+
 
 This example demonstrates how the CLV scoring feature can be applied to a customer profile. It provides a clear indication of the customer's value to the loyalty program.
 
@@ -53,4 +59,4 @@ This analysis aims to enhance the Dusit International loyalty program by better 
 
 ---
 
-Feel free to explore the code and documentation in this repository for a more detailed understanding of the CLV analysis and its potential impact on Dusit International's loyalty program. If you have any questions or feedback, please don't hesitate to reach out.
+Feel free to explore the documentation in this repository for a more detailed understanding of the CLV analysis and its potential impact on Dusit International's loyalty program. If you have any questions or feedback, please don't hesitate to reach out.
